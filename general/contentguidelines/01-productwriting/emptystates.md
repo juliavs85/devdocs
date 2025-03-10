@@ -6,7 +6,7 @@ tags:
 - UX Writing
 ---
 
-Empty states appear when there's nothing to display to our users. They can happen in a variety of situations:
+Empty states appear when there's nothing to display to our users. They can happen in a variety of situations.
 
 - First use: When someone first uses a product or a feature. For example, when someone creates a new Database activity.
 - User-emptied: When users have completed all tasks or actions, or have cleared the interface themselves. For example, when a student has completed all upcoming actions in the Timeline block, or when someone deletes all their messages.
